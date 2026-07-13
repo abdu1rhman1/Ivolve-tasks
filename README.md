@@ -59,7 +59,7 @@ Ivolve-tasks/
 
 ---
 
-# 🛠 Technologies
+# Technologies
 
 - Linux
 - Git
