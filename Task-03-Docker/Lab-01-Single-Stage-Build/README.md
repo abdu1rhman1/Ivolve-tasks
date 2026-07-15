@@ -228,16 +228,45 @@ docker rmi springboot-single-stage
 ```
 
 ---
-
 ## Screenshots
 
-Create an `images` directory and add screenshots of:
+### Building the Docker Image
 
-- Docker image build
-- Docker images
-- Running container
-- Browser test
-- Docker ps output
+The Docker image is built successfully using the Dockerfile.
+
+![Docker Build](images/01-docker-build.png)
+
+---
+
+### Available Docker Images
+
+Verify that the image has been created successfully.
+
+![Docker Images](images/02-docker-images.png)
+
+---
+
+### Running the Container
+
+The Spring Boot application starts successfully inside the Docker container.
+
+![Docker Run](images/03-docker-run.png)
+
+---
+
+### Testing the Application
+
+The application is accessible through the browser after publishing the container port.
+
+![Browser Test](images/04-browser-test.png)
+
+---
+
+### Running Containers
+
+Verify that the container is running correctly.
+
+![Docker PS](images/05-docker-ps.png)
 
 Recommended structure:
 
