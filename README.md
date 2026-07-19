@@ -1,100 +1,150 @@
 # iVolve Cloud DevOps Accelerator
 
-This repository contains all hands-on labs, tasks, and projects completed during the **iVolve Cloud DevOps Accelerator** training program.
+## Overview
 
-The repository documents my practical journey through Linux administration, Git, Docker, Kubernetes, CI/CD, GitOps, Ansible, Terraform, AWS, and other DevOps technologies.
+This repository contains all hands-on labs, assignments, and projects completed throughout the **iVolve Cloud DevOps Accelerator** training program.
 
----
-
-## Training Modules
-
-- Linux Administration
-- Git & GitHub
-- Java & Gradle
-- Docker
-- Kubernetes
-- Jenkins CI/CD
-- GitOps with ArgoCD
-- Ansible Automation
-- AWS Cloud
+The primary goal of this repository is to document my practical experience while building a solid foundation in Linux, Cloud, and DevOps technologies through real-world implementations.
 
 ---
 
-# Repository Structure
-
-```text
-Ivolve-tasks/
-
-│
-├── README.md
-│
-├── Task-01-Calculator-Gradle
-│
-├── Task-02-Linux
-│
-├── Task-03-Git-GitHub
-│
-├── Task-04-Bash-Scripting
-│
-├── Task-05-Docker
-│
-├── Task-06-Kubernetes
-│
-├── Task-07-Jenkins
-│
-├── Task-08-ArgoCD
-│
-├── Task-09-Ansible
-│
-└── Task-10-AWS
-```
-
----
-
-# Completed Tasks
-
-| # | Task | Status |
-|---|------|--------|
-| 01 | [Calculator using Gradle](Task-01-Calculator-Gradle/) | ✅ Completed |
-
----
-
-# Technologies
+## Technologies
 
 - Linux
 - Git
 - GitHub
 - Java
+- Maven
 - Gradle
 - Docker
 - Kubernetes
 - Jenkins
 - ArgoCD
 - Ansible
+- Terraform
 - AWS
 
 ---
 
-# Training Goals
+## Repository Structure
 
-Throughout this program I focused on:
-
-- Linux System Administration
-- Version Control using Git
-- Infrastructure Automation
-- Containerization
-- Container Orchestration
-- CI/CD Pipelines
-- GitOps
-- Configuration Management
-- Cloud Infrastructure
-- DevOps Best Practices
+```text
+Ivolve-tasks
+│
+├── README.md
+│
+├── Task-01-Calculator-Gradle
+│
+├── Task-02-Calculator-Maven
+│
+├── Task-03-Docker
+│   ├── README.md
+│   ├── Lab-01-Single-Stage-Build
+│   └── Lab-02-Run-SpringBoot-App
+│
+├── Task-04-Multi-Stage-Build
+│   └── README.md
+│
+├── Task-05-Kubernetes
+│
+├── Task-06-Jenkins
+│
+├── Task-07-ArgoCD
+│
+├── Task-08-Ansible
+│
+├── Task-09-Terraform
+│
+└── Task-10-AWS
+```
 
 ---
 
-# Author
+## Completed Tasks
 
-**Abdulrhman Mohammed**
+| Task | Description | Status |
+|------|-------------|--------|
+| Task 01 | Calculator Application using Gradle | ✅ Completed |
+| Task 02 | Calculator Application using Maven | ✅ Completed |
+| Task 03 | Docker Fundamentals (Single-Stage Build & Spring Boot Containerization) | ✅ Completed |
+| Task 04 | Docker Multi-Stage Build for Spring Boot Application | ✅ Completed |
 
-- GitHub: https://github.com/abdu1rhman1
-- LinkedIn: https://www.linkedin.com/in/abdulrhman-mohammed-b22609389
+---
+
+## Skills Covered
+
+### Linux
+
+- Linux File System
+- File Permissions
+- Package Management
+- Shell Commands
+
+### Git & GitHub
+
+- Repository Management
+- Commit History
+- Branching
+- Version Control
+- Collaboration Workflow
+
+### Java Build Tools
+
+- Maven
+- Gradle
+
+### Docker
+
+- Docker Images
+- Docker Containers
+- Dockerfile
+- Docker Image Layers
+- Build Context
+- Port Mapping
+- Container Lifecycle
+- Image Management
+- Single-Stage Builds
+- Multi-Stage Builds
+- Docker Image Optimization
+
+---
+
+## Learning Progress
+
+| Technology | Status |
+|------------|--------|
+| Linux | ✅ Completed |
+| Git & GitHub | ✅ Completed |
+| Maven | ✅ Completed |
+| Gradle | ✅ Completed |
+| Docker | ✅ Completed |
+| Kubernetes | ⏳ In Progress |
+| Jenkins | ⏳ Upcoming |
+| ArgoCD | ⏳ Upcoming |
+| Ansible | ⏳ Upcoming |
+| Terraform | ⏳ Upcoming |
+| AWS | ⏳ Upcoming |
+
+---
+
+## Objectives
+
+- Build practical experience with modern DevOps tools.
+- Apply DevOps concepts through hands-on labs.
+- Follow industry best practices.
+- Build a professional DevOps portfolio.
+- Continuously expand the repository with new projects and technologies.
+
+---
+
+## Author
+
+**Abdulrhman Mohammed Tolpa**
+
+Cloud & DevOps Engineer
+
+GitHub  
+https://github.com/abdu1rhman1
+
+LinkedIn  
+https://www.linkedin.com/in/abdulrhman-mohammed-b22609389
